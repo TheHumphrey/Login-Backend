@@ -9,7 +9,7 @@ namespace LoginBC.Services {
         private readonly IMongoCollection<Usuario> _usuario;
 
         public UsuarioService() {
-            var client = new MongoClient("mongodb://localhost:27017");
+            var client = new MongoClient("189.63.58.27:27016");
             var database = client.GetDatabase("teste");
             _usuario = database.GetCollection<Usuario>("usuarios");
         }
