@@ -7713,11 +7713,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programação\\Trabalho\\Backend\\Login-Backend\\LoginBC.csproj",
+      "projectUniqueName": "F:\\Programação\\Trabalho\\backend\\Login-Backend\\LoginBC.csproj",
       "projectName": "LoginBC",
-      "projectPath": "F:\\Programação\\Trabalho\\Backend\\Login-Backend\\LoginBC.csproj",
+      "projectPath": "F:\\Programação\\Trabalho\\backend\\Login-Backend\\LoginBC.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "F:\\Programação\\Trabalho\\Backend\\Login-Backend\\obj\\",
+      "outputPath": "F:\\Programação\\Trabalho\\backend\\Login-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",

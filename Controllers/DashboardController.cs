@@ -37,7 +37,7 @@ namespace LoginBC.Controllers {
         //        return BadRequest(err);
         //    }
         //}
-
+        [HttpPost]
         public ActionResult Post([FromBody]Dashboard dash) {
             try {
                 _serviceDB.Create(dash);

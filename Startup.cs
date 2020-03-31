@@ -25,6 +25,8 @@ namespace LoginBC {
                 });
             });
 
+            services.AddSingleton<DashboardDataService>();
+            services.AddSingleton<DashboardService>();
             services.AddSingleton<UsuarioService>();
             services.AddControllers();
         }

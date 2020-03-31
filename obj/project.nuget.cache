@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/dtES4b5SrR9jwTfTyE0Q41BCm9TjVx3wTpfR5ydG/KcNpudaWEhytQnT+q7IWPwFinSWM6+X76mHaDkzt33og==",
+  "dgSpecHash": "YUfYR4xBlRMpqWJJaTUVP9Z0QQorsoNYwTNht13y485nMwT4U9qY9tZBbLG1ElWFmctwRJ53VCeAbDRwrc2FXA==",
   "success": true,
-  "projectFilePath": "F:\\Programação\\Trabalho\\Backend\\Login-Backend\\LoginBC.csproj",
+  "projectFilePath": "F:\\Programação\\Trabalho\\backend\\Login-Backend\\LoginBC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
