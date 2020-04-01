@@ -18,7 +18,7 @@ namespace LoginBC.Controllers {
         }
 
         // GET: api/DashboardData
-        public ActionResult<DashboardData> Get() {
+        public ActionResult<Data> Get() {
             try {
                 var data = _serviceDBData.Get();
                 return Ok(data);
