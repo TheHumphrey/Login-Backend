@@ -48,9 +48,9 @@ namespace LoginBC.Controllers {
         }
 
         [HttpPut("{email}")]
-        public ActionResult Put(string email, [FromBody]Dashboard user) {
+        public ActionResult Put(string email, [FromBody]Dashboard data) {
             try {
-                _serviceDB.Update(email, user);
+                _serviceDB.Update(email, data);
                 return Ok();
             } catch (Exception err) {
                 return BadRequest(err);

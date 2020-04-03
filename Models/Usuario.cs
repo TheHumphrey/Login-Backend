@@ -13,5 +13,6 @@ namespace LoginBC.Models {
         public DateTime DataNascimento { get; set; }
         public string Nome { get; set; }
         public string Senha { get; set; }
+        public bool ADM { get; set; }
     }
 }
